@@ -1,0 +1,6 @@
+{
+  "name": "Explore Nuwara Eliya",
+  "description": "Discover the beauty of Little England with flexible city tours, scenic drop tours, transport services, and curated highland experiences.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
